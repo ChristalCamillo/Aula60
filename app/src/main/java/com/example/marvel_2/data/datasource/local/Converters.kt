@@ -1,6 +1,7 @@
 package com.example.marvel_2.data.datasource.local
 
 import androidx.room.TypeConverter
+import com.example.marvel_2.domain.model.Personagem
 import com.google.gson.Gson
 
 class Converters {
